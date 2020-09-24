@@ -6,3 +6,8 @@ void main(){
   print(firstName + lastName);
   print('hello world'); 
 }
+
+// OUTPUT
+
+// AnishMookherjee
+// hello world

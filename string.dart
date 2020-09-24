@@ -12,3 +12,10 @@ main(){
   var s = r'in s raw string, not even \n gets special treatment';
   print(s);
 }
+
+// OUTPUT
+
+// Hi Anish
+// Happy Engineer's Day
+// Happy Engineer's Day
+// in s raw string, not even \n gets special treatment

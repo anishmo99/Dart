@@ -25,3 +25,17 @@ main(){
   weakVariable = 'Dart Programming';
   print('$weakVariable\n');
 }
+
+// OUTPUT
+
+// Amount1: 100 | Amount2 : 200
+
+// Amount3: 100.32 | Amount4 : 200.24
+
+// My name is Anish Mookherjee
+
+// isItTrue : false | isItTrue : true
+
+// 100
+
+// Dart Programming
