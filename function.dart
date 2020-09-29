@@ -40,8 +40,23 @@ dynamic sum2({var num1, var num2}) => num1 + num2;
 dynamic sum3(var num1, {var num2}) => num1 + (num2 ?? 1);
 
 // the above method can also be written without null aware operator as below
-dynamic sum3(var num1, {var num2 = 10}) => num1 + num2;
+// dynamic sum3(var num1, {var num2 = 10}) => num1 + num2;
 
 void display(var msg) {
   print(msg);
 }
+
+// OUTPUT
+
+// 25
+// 36
+// (dynamic) => dynamic
+// 1
+// 4
+// 9
+// 16
+// 25
+// 5
+// 30
+// 12
+// 20
